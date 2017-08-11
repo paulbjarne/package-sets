@@ -922,6 +922,17 @@
     ],
     "repo": "https://github.com/slamdata/purescript-dom-indexed.git",
     "version": "v3.0.0"
+  "dom-geolocation": {
+    "dependencies": [
+      "eff",
+      "aff",
+      "datetime",
+      "dom",
+      "globals",
+      "integers"
+    ],
+    "repo": "git@github.com:chexxor/purescript-dom-geolocation.git",
+    "version": "use-aff"
   },
   "drawing": {
     "dependencies": [
@@ -1100,6 +1111,27 @@
     ],
     "repo": "https://github.com/purescript/purescript-exists.git",
     "version": "v3.0.0"
+  },
+  "express": {
+    "dependencies": [
+      "aff",
+      "arrays",
+      "control",
+      "data-default",
+      "eff",
+      "either",
+      "exceptions",
+      "foldable-traversable",
+      "foreign",
+      "lists",
+      "maybe",
+      "node-http",
+      "parsing",
+      "strings",
+      "transformers"
+    ],
+    "repo": "git@github.com:chexxor/purescript-express",
+    "version": "master-chexxor"
   },
   "filterable": {
     "dependencies": [
@@ -2092,6 +2124,29 @@
     ],
     "repo": "https://github.com/purescript-contrib/purescript-http-methods.git",
     "version": "v3.0.0"
+  },
+  "http-types": {
+    "dependencies": [
+      "prelude",
+      "maps",
+      "maybe",
+      "strings",
+      "lists",
+      "foreign",
+      "datetime",
+      "uri",
+      "pathy",
+      "transformers",
+      "string-parsers",
+      "js-date",
+      "control",
+      "monoid",
+      "tuples",
+      "exceptions",
+      "either"
+    ],
+    "repo": "https://github.com/chrisdotcode/purescript-http-types.git",
+    "version": "v0.5.0"
   },
   "identity": {
     "dependencies": [
@@ -3447,6 +3502,37 @@
     "repo": "https://github.com/alexmingoia/purescript-pux.git",
     "version": "v10.0.0"
   },
+  "pux": {
+    "dependencies": [
+      "aff",
+      "eff",
+      "lists",
+      "signal",
+      "maps",
+      "functions",
+      "profunctor",
+      "react",
+      "globals"
+    ],
+    "repo": "git@github.com:chexxor/purescript-pux.git",
+    "version": "master-chexxor"
+  },
+  "pux-css": {
+    "dependencies": [
+      "pux",
+      "css"
+    ],
+    "repo": "https://github.com/alexmingoia/pux-css.git",
+    "version": "v3.1.0"
+  },
+  "pux-devtool": {
+    "dependencies": [
+      "pux",
+      "pux-css"
+    ],
+    "repo": "https://github.com/alexmingoia/pux-devtool.git",
+    "version": "v4.1.0"
+  },
   "quickcheck": {
     "dependencies": [
       "arrays",
@@ -4544,6 +4630,17 @@
     ],
     "repo":"https://github.com/natefaubion/purescript-variant.git",
     "version":"v1.1.0"
+  },
+  "web-storage": {
+    "dependencies": [
+      "eff",
+      "nullable",
+      "prelude",
+      "exceptions",
+      "maybe"
+    ],
+    "repo": "git@github.com:chexxor/purescript-web-storage.git",
+    "version": "bump-deps"
   },
   "yargs": {
     "dependencies": [
