@@ -2984,6 +2984,18 @@
     "repo": "https://github.com/bodil/purescript-signal.git",
     "version": "v8.1.0"
   },
+  "smolder": {
+    "dependencies": [
+      "tuples",
+      "catenable-lists",
+      "strings",
+      "maps",
+      "monoid",
+      "prelude"
+    ],
+    "repo": "https://github.com/bodil/purescript-smolder.git",
+    "version": "v6.0.1"
+  },
   "spec": {
     "dependencies": [
       "console",
