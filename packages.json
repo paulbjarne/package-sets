@@ -2443,7 +2443,7 @@
       "console",
       "eff",
       "transformers",
-      "tuple",
+      "tuples",
       "either"
     ],
     "repo": "https://github.com/rightfold/purescript-logging.git",
