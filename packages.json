@@ -4576,6 +4576,19 @@
     "repo": "https://github.com/purescript-contrib/purescript-unsafe-reference.git",
     "version": "v2.0.0"
   },
+  "uri": {
+    "dependencies": [
+      "globals",
+      "integers",
+      "maps",
+      "pathy",
+      "string-parsers",
+      "unfoldable",
+      "generics-rep"
+    ],
+    "repo": "https://github.com/slamdata/purescript-uri.git",
+    "version": "v4.0.0"
+  },
   "uuid": {
     "dependencies": [
       "eff"
