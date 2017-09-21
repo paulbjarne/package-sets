@@ -3520,11 +3520,12 @@
   },
   "pux-devtool": {
     "dependencies": [
+      "prelude",
       "pux",
       "pux-css"
     ],
-    "repo": "https://github.com/alexmingoia/pux-devtool.git",
-    "version": "v4.1.0"
+    "repo": "https://github.com/mjhoy/pux-devtool.git",
+    "version": "mjhoy-master"
   },
   "quickcheck": {
     "dependencies": [
