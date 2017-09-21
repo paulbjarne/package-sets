@@ -2303,6 +2303,7 @@
       "monoid",
       "newtype",
       "nonempty",
+      "now",
       "partial",
       "prelude",
       "proxy",
