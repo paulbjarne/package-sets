@@ -4650,8 +4650,8 @@
       "exceptions",
       "maybe"
     ],
-    "repo": "https://github.com/chexxor/purescript-web-storage.git",
-    "version": "bump-deps"
+    "repo": "https://github.com/mjhoy/purescript-web-storage.git",
+    "version": "psc-0.11"
   },
   "yargs": {
     "dependencies": [
