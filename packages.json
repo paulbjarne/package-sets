@@ -2447,7 +2447,7 @@
       "either"
     ],
     "repo": "https://github.com/rightfold/purescript-logging.git",
-    "version": "v1.1.0"
+    "version": "v2.0.0"
   },
   "machines": {
     "dependencies": [
