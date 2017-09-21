@@ -956,8 +956,8 @@
       "globals",
       "integers"
     ],
-    "repo": "https://github.com/chexxor/purescript-dom-geolocation.git",
-    "version": "use-aff"
+    "repo": "https://github.com/mjhoy/purescript-dom-geolocation.git",
+    "version": "psc-0.11"
   },
   "drawing": {
     "dependencies": [
