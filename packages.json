@@ -4650,7 +4650,7 @@
       "exceptions",
       "maybe"
     ],
-    "repo": "https://github.com/mjhoy/purescript-web-storage.git",
+    "repo": "https://github.com/mjhoy/purescript-webstorage.git",
     "version": "psc-0.11"
   },
   "yargs": {
