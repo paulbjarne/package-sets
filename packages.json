@@ -1148,6 +1148,7 @@
       "exceptions",
       "foldable-traversable",
       "foreign",
+      "foreign-generic",
       "lists",
       "maybe",
       "node-http",
@@ -1155,8 +1156,8 @@
       "strings",
       "transformers"
     ],
-    "repo": "https://github.com/chexxor/purescript-express.git",
-    "version": "master-chexxor"
+    "repo": "https://github.com/mjhoy/purescript-express.git",
+    "version": "psc-0.11"
   },
   "filterable": {
     "dependencies": [
