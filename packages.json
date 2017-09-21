@@ -1327,7 +1327,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/paf31/purescript-foreign-generic.git",
-    "version": "v4.0.0"
+    "version": "v5.0.0"
   },
   "foreign-lens": {
     "dependencies": [
