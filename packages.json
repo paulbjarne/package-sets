@@ -3505,8 +3505,8 @@
       "react",
       "globals"
     ],
-    "repo": "git@github.com:chexxor/purescript-pux.git",
-    "version": "master-chexxor"
+    "repo": "git@github.com:mjhoy/purescript-pux.git",
+    "version": "psc-0.11"
   },
   "pux-css": {
     "dependencies": [
