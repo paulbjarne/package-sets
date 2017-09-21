@@ -4609,7 +4609,7 @@
       "eff"
     ],
     "repo": "https://github.com/spicydonuts/purescript-uuid.git",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   },
   "validation": {
     "dependencies": [
