@@ -2159,6 +2159,7 @@
       "strings",
       "lists",
       "foreign",
+      "gen",
       "datetime",
       "uri",
       "pathy",
@@ -2171,8 +2172,8 @@
       "exceptions",
       "either"
     ],
-    "repo": "https://github.com/chrisdotcode/purescript-http-types.git",
-    "version": "v0.6.1"
+    "repo": "https://github.com/mjhoy/purescript-http-types.git",
+    "version": "mjhoy-master"
   },
   "identity": {
     "dependencies": [
