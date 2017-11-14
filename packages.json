@@ -983,6 +983,14 @@
     "repo": "https://github.com/alexmingoia/purescript-pux.git",
     "version": "v10.0.0"
   },
+  "purescript-postgresql-client": {
+     "dependencies": [
+       "pg"
+     ],
+     "repo": "https://github.com/rightfold/purescript-postgresql-client.git",
+     "version": "v2.1.0"
+  },
+
   "quickcheck": {
     "dependencies": [
       "enums",
