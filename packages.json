@@ -759,6 +759,14 @@
     "repo": "https://github.com/paf31/purescript-day.git",
     "version": "v9.0.0"
   },
+  "decimals": {
+    "dependencies": [
+      "prelude",
+      "maybe"
+    ],
+    "repo": "https://github.com/sharkdp/purescript-decimals.git",
+    "version": "v3.2.0"
+  },
   "debug": {
     "dependencies": [
       "prelude"
