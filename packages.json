@@ -595,7 +595,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-control.git",
-    "version": "v3.0.0"
+    "version": "v3.3.1"
   },
   "coroutines": {
     "dependencies": [
@@ -716,7 +716,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-datetime.git",
-    "version": "v3.0.0"
+    "version": "v3.4.1"
   },
   "day": {
     "dependencies": [
@@ -1091,7 +1091,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/purescript/purescript-enums.git",
-    "version": "v3.0.0"
+    "version": "v3.1.0"
   },
   "errors": {
     "dependencies": [
@@ -1530,7 +1530,7 @@
       "unicode",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/paulbjarne/purescript-formatters.git",
+    "repo": "https://github.com/slamdata/purescript-formatters.git",
     "version": "v3.0.1"
   },
   "free": {
@@ -1690,7 +1690,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/purescript/purescript-gen.git",
-    "version": "v1.0.0"
+    "version": "v1.1.0"
   },
   "generics": {
     "dependencies": [
