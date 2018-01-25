@@ -3288,7 +3288,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-parsing.git",
-    "version": "v4.0.0"
+    "version": "v4.2.1"
   },
   "partial": {
     "dependencies": [],
