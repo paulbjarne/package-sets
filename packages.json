@@ -1438,7 +1438,7 @@
         "psci-support"
     ],
     "repo": "https://github.com/chexxor/purescript-pagination.git",
-    "version": "v0.1"
+    "version": "v0.2"
   },
   "form-urlencoded": {
     "dependencies": [
@@ -2790,7 +2790,7 @@
     ],
     "repo":"https://github.com/LiamGoodacre/purescript-naturals.git",
     "version":"v2.1.0"
-  }
+  },
   "node-fs": {
     "dependencies": [
       "arrays",
