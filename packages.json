@@ -1428,6 +1428,18 @@
     "repo": "https://github.com/slamdata/purescript-fork.git",
     "version": "v2.0.0"
   },
+  "pagination": {
+    "dependencies": [
+        "console",
+        "enums",
+        "naturals",
+        "prelude",
+        "proxy",
+        "psci-support"
+    ],
+    "repo": "https://github.com/chexxor/purescript-pagination.git",
+    "version": "v0.1"
+  },
   "form-urlencoded": {
     "dependencies": [
       "arrays",
