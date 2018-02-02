@@ -2784,6 +2784,13 @@
     "repo": "https://github.com/purescript-node/purescript-node-child-process.git",
     "version": "v4.0.0"
   },
+  "naturals": {
+    "dependencies": [
+    "prelude"
+    ],
+    "repo":"https://github.com/LiamGoodacre/purescript-naturals.git",
+    "version":"v2.1.0"
+  }
   "node-fs": {
     "dependencies": [
       "arrays",
