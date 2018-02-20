@@ -1,48 +1,20 @@
 {
   "aff": {
     "dependencies": [
-      "arrays",
-      "bifunctors",
+      "avar",
       "console",
-      "const",
-      "contravariant",
-      "control",
       "datetime",
-      "distributive",
-      "eff",
-      "either",
-      "enums",
       "exceptions",
-      "foldable-traversable",
       "functions",
-      "functors",
-      "generics",
-      "globals",
-      "identity",
-      "integers",
-      "invariant",
-      "lazy",
-      "lists",
-      "math",
-      "maybe",
-      "monoid",
-      "newtype",
-      "nonempty",
+      "free",
       "parallel",
-      "partial",
-      "prelude",
-      "proxy",
-      "refs",
-      "st",
-      "strings",
-      "tailrec",
       "transformers",
-      "tuples",
-      "unfoldable",
+      "type-equality",
+      "st",
       "unsafe-coerce"
     ],
     "repo": "https://github.com/slamdata/purescript-aff.git",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   },
   "aff-coroutines": {
     "dependencies": [
@@ -99,57 +71,19 @@
       "aff",
       "argonaut-core",
       "arraybuffer-types",
-      "arrays",
-      "bifunctors",
-      "console",
-      "const",
-      "contravariant",
-      "control",
-      "datetime",
-      "distributive",
       "dom",
-      "eff",
-      "either",
-      "enums",
-      "exceptions",
-      "foldable-traversable",
       "foreign",
       "form-urlencoded",
-      "functions",
-      "functors",
-      "gen",
-      "generics",
-      "globals",
       "http-methods",
-      "identity",
       "integers",
-      "invariant",
-      "js-date",
-      "lazy",
-      "lists",
-      "maps",
       "math",
-      "maybe",
       "media-types",
-      "monoid",
-      "newtype",
-      "nonempty",
       "nullable",
-      "parallel",
-      "partial",
-      "prelude",
-      "proxy",
       "refs",
-      "st",
-      "strings",
-      "tailrec",
-      "transformers",
-      "tuples",
-      "unfoldable",
       "unsafe-coerce"
     ],
     "repo": "https://github.com/slamdata/purescript-affjax.git",
-    "version": "v4.0.0"
+    "version": "v5.0.0"
   },
   "ansi": {
     "dependencies": [
@@ -455,6 +389,17 @@
     ],
     "repo": "https://github.com/purescript/purescript-assert.git",
     "version": "v3.0.0"
+  },
+  "avar": {
+    "dependencies": [
+      "eff",
+      "maybe",
+      "either",
+      "functions",
+      "exceptions"
+    ],
+    "repo": "https://github.com/slamdata/purescript-avar.git",
+    "version": "v2.0.1"
   },
   "bifunctors": {
     "dependencies": [
@@ -965,7 +910,7 @@
       "integers"
     ],
     "repo": "https://github.com/mjhoy/purescript-dom-geolocation.git",
-    "version": "psc-0.11"
+    "version": "psc-0.11-aff-4"
   },
   "drawing": {
     "dependencies": [
@@ -1162,10 +1107,12 @@
       "node-http",
       "parsing",
       "strings",
-      "transformers"
+      "transformers",
+      "unfoldable",
+      "test-unit"
     ],
     "repo": "https://github.com/mjhoy/purescript-express.git",
-    "version": "psc-0.11"
+    "version": "psc-0.11-v.6"
   },
   "filterable": {
     "dependencies": [
@@ -1237,7 +1184,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-foldable-traversable.git",
-    "version": "v3.0.0"
+    "version": "v3.6.0"
   },
   "folds": {
     "dependencies": [
@@ -3250,7 +3197,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-parallel.git",
-    "version": "v3.0.0"
+    "version": "v3.3.1"
   },
   "parsing": {
     "dependencies": [
@@ -4122,63 +4069,20 @@
   },
   "spec": {
     "dependencies": [
+      "prelude",
       "aff",
-      "arrays",
-      "assert",
-      "bifunctors",
+      "ansi",
       "console",
-      "const",
-      "contravariant",
-      "control",
-      "datetime",
-      "distributive",
-      "eff",
-      "either",
-      "enums",
       "exceptions",
       "foldable-traversable",
-      "foreign",
-      "functions",
-      "functors",
-      "generics",
-      "globals",
-      "identity",
-      "integers",
-      "invariant",
-      "js-date",
-      "js-timers",
-      "lazy",
-      "lists",
-      "maps",
-      "math",
-      "maybe",
-      "mmorph",
       "monoid",
-      "newtype",
-      "node-buffer",
-      "node-fs",
-      "node-path",
-      "node-process",
-      "node-streams",
-      "nonempty",
-      "nullable",
-      "parallel",
-      "partial",
-      "pipes",
-      "posix-types",
-      "prelude",
-      "proxy",
-      "refs",
-      "st",
       "strings",
       "tailrec",
       "transformers",
-      "tuples",
-      "unfoldable",
-      "unsafe-coerce"
+      "pipes"
     ],
     "repo": "https://github.com/owickstrom/purescript-spec.git",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   },
   "st": {
     "dependencies": [
@@ -4399,7 +4303,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/bodil/purescript-test-unit.git",
-    "version": "v11.0.0"
+    "version": "v13.0.0"
   },
   "thermite": {
     "dependencies": [
