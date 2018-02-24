@@ -85,6 +85,18 @@
     "repo": "git://github.com/slamdata/purescript-markdown.git",
     "version": "v11.0.1"
   },
+  "precise": {
+    "dependencies": [
+      "arrays",
+      "globals",
+      "integers",
+      "quickcheck",
+      "generics",
+      "strings"
+    ],
+    "repo": "git://github.com/purescript-contrib/purescript-hugenums.git",
+    "version": "v2.0.0"
+  },
   "affjax": {
     "dependencies": [
       "aff",
