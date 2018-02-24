@@ -66,6 +66,25 @@
     "repo": "https://github.com/purescript-contrib/purescript-aff-coroutines.git",
     "version": "v5.0.0"
   },
+  "markdown": {
+    "dependencies": [
+      "const",
+      "functors",
+      "lists",
+      "parsing",
+      "partial",
+      "precise",
+      "prelude",
+      "sets",
+      "strings",
+      "strongcheck",
+      "unicode",
+      "validation",
+      "datetime"
+    ],
+    "repo": "git://github.com/slamdata/purescript-markdown.git",
+    "version": "v11.0.1"
+  },
   "affjax": {
     "dependencies": [
       "aff",
