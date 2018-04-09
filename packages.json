@@ -4071,35 +4071,18 @@
   },
   "smolder": {
     "dependencies": [
-      "arrays",
-      "bifunctors",
-      "catenable-lists",
-      "console",
-      "control",
-      "eff",
-      "either",
-      "foldable-traversable",
-      "functions",
-      "identity",
-      "invariant",
-      "lazy",
-      "lists",
-      "maps",
-      "maybe",
-      "monoid",
-      "newtype",
-      "nonempty",
-      "partial",
       "prelude",
-      "st",
+      "monoid",
+      "maps",
       "strings",
-      "tailrec",
+      "catenable-lists",
       "tuples",
-      "unfoldable",
-      "unsafe-coerce"
+      "free",
+      "transformers",
+      "bifunctors"
     ],
     "repo": "https://github.com/bodil/purescript-smolder.git",
-    "version": "v9.0.0"
+    "version": "v10.2.0"
   },
   "spec": {
     "dependencies": [
