@@ -3492,10 +3492,13 @@
       "functions",
       "profunctor",
       "react",
-      "globals"
+      "globals",
+      "dom",
+      "smolder",
+      "css"
     ],
-    "repo": "https://github.com/mjhoy/purescript-pux.git",
-    "version": "psc-0.11"
+    "repo": "https://github.com/alexmingoia/purescript-pux.git",
+    "version": "12.0.0"
   },
   "pux-css": {
     "dependencies": [
