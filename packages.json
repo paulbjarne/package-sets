@@ -3497,7 +3497,7 @@
       "smolder",
       "css"
     ],
-    "repo": "https://github.com/alexmingoia/purescript-pux.git",
+    "repo": "https://github.com/mjhoy/purescript-pux.git",
     "version": "v12.0.0-sawhorse-patch-1"
   },
   "pux-css": {
