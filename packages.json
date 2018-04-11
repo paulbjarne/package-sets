@@ -3498,7 +3498,7 @@
       "css"
     ],
     "repo": "https://github.com/alexmingoia/purescript-pux.git",
-    "version": "v12.0.0"
+    "version": "v12.0.0-sawhorse-patch-1"
   },
   "pux-css": {
     "dependencies": [
