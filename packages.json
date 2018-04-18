@@ -2352,6 +2352,16 @@
     "repo": "https://github.com/purescript-contrib/purescript-lens.git",
     "version": "v3.0.0"
   },
+  "leaflet": {
+    "dependencies": [
+      "eff",
+      "prelude",
+      "console",
+      "arrays"
+    ],
+    "repo": "git://github.com/tdammers/purescript-leaflet-tdammers",
+    "version": "v0.3.0"
+  },
   "list-zipper": {
     "dependencies": [
       "arrays",
