@@ -2360,7 +2360,7 @@
       "arrays"
     ],
     "repo": "git://github.com/paulbjarne/purescript-leaflet-tdammers",
-    "version": "v0.3.2"
+    "version": "v0.3.3"
   },
   "list-zipper": {
     "dependencies": [
