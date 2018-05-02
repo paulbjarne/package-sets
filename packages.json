@@ -1508,8 +1508,8 @@
       "unicode",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/slamdata/purescript-formatters.git",
-    "version": "8eacf463dadda333e89813b545d70ca1e4a36079"
+    "repo": "https://github.com/mjhoy/purescript-formatters.git",
+    "version": "v3.0.1-sawhorse-fix"
   },
   "free": {
     "dependencies": [
