@@ -1509,7 +1509,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/slamdata/purescript-formatters.git",
-    "version": "v3.0.1"
+    "version": "8eacf463dadda333e89813b545d70ca1e4a36079"
   },
   "free": {
     "dependencies": [
