@@ -3695,7 +3695,7 @@
       "unsafe-coerce"
     ],
     "repo": "git://github.com/purescript/purescript-record.git",
-    "version": "v1.0.0"
+    "version": "v0.2.6"
   },
   "reflection": {
     "dependencies": [
