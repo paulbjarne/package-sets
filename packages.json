@@ -3692,7 +3692,7 @@
       "prelude",
       "st",
       "typelevel-prelude",
-      "purescript-unsafe-coerce"
+      "unsafe-coerce"
     ],
     "repo": "git://github.com/purescript/purescript-record.git",
     "version": "v1.0.0"
